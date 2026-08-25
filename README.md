@@ -82,3 +82,22 @@ AI Explanation
 
 Recommended Action
 
+
+## Screenshots
+
+### Login
+
+![Login Page](Screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](Screenshots/dashboard.png)
+
+### Payment Scanner
+
+![Payment Scanner](Screenshots/scanner-empty.png)
+
+### Audit Trail
+
+![Audit Trail](Screenshots/audit-trail.png)
+
