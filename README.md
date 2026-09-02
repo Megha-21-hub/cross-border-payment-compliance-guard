@@ -87,17 +87,18 @@ Recommended Action
 
 ### Login
 
-![Login Page](Screenshots/login.png)
+![Login Page](Screenshots/Login.png)
 
 ### Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Payment Scanner
 
-![Payment Scanner](Screenshots/scanner-empty.png)
+![Payment Scanner](Screenshots/Payment%20Scanner.png)
 
 ### Audit Trail
 
-![Audit Trail](Screenshots/audit-trail.png)
+![Audit Trail](Screenshots/Audit_Trial.png)
+
 
