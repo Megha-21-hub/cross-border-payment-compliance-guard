@@ -56,6 +56,7 @@ export interface ComplianceFinding {
   field_name: string | null;
   ai_explanation: AIExplanation | null;
   created_at: string;
+  compliance_check_id: string;
 }
 
 export interface ComplianceCheck {
